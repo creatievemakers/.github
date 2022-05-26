@@ -5,6 +5,8 @@ Creatieve makers is an initiative from KULeuven and LUCA | School of Arts to cre
 Feel free to take a look on our website: [creativemakers.xyz](https://creativemakers.xyz/?statement) or in our GitHub repositories.
 <br>
 
-![](https://creativemakers.xyz/media/content/summerschool/wireframe3.gif)
+<!---
+[//]: # (This may be the most platform independent comment) ![](https://creativemakers.xyz/media/content/summerschool/wireframe3.gif)
+-->
 
 
