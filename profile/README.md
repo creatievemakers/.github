@@ -23,3 +23,15 @@ Creatieve makers is an initiative from KULeuven and LUCA | School of Arts to cre
     <tspan fill="green">world</tspan>!
   </text>
 </svg>
+
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
+
+~~This is green~~
+_this is blue_
