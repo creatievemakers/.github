@@ -1,5 +1,6 @@
-## Hi there 👋
 
-A [multi] - discplinairy collective practice between [architects, engineers and artists] futureproofing our disciplines.
+## cm³ is a [multi] - discplinairy collective practice between [architects, engineers and artists] futureproofing our disciplines.
 
 
+
+![](https://creativemakers.xyz/media/content/summerschool/test6.gif)
