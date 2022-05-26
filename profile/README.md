@@ -2,36 +2,10 @@
 
 Creatieve makers is an initiative from KULeuven and LUCA | School of Arts to create a [inter] - discplinairy collective practice between [engineers] doing [summerschools] to futureproof our disciplines for the next [7] years.
 
-<span style="color:blue">some *blue* text</span>.
+<a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
-  </text>
+<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+  <rect width="10" height="10">
+    <animate attributeName="rx" values="0;5;0" dur="10s" repeatCount="indefinite" />
+  </rect>
 </svg>
-
-// resets
-s { text-decoration:none; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-
-// colors
-s { color: green }
-em { color: blue }
-
-~~This is green~~
-_this is blue_
