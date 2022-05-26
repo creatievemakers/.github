@@ -3,3 +3,11 @@
 Creatieve makers is an initiative from KULeuven and LUCA | School of Arts to create a [inter] - discplinairy collective practice between [engineers] doing [summerschools] to futureproof our disciplines for the next [7] years.
 
 <span style="color:blue">some *blue* text</span>.
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
