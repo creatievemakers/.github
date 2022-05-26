@@ -3,4 +3,4 @@
 
 
 
-![](https://creativemakers.xyz/media/content/summerschool/test6.gif)
+![](https://creativemakers.xyz/media/content/summerschool/wireframe3.gif)
