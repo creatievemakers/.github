@@ -16,6 +16,6 @@ Creatieve makers is an initiative from KULeuven and LUCA | School of Arts to cre
 <svg>
   <text font-size="16" x="10" y="20">
     <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
+    <tspan fill="green">world</tspan>
   </text>
 </svg>
