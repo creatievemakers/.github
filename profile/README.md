@@ -3,7 +3,7 @@
 
 we organize summerschools, workshops and electives.
 
-feel free to take a look on our website: https://creativemakers.xyz/?statement
+feel free to take a look on our website: creativemakers.xyz
 
 ![](https://creativemakers.xyz/media/content/summerschool/wireframe3.gif)
 
