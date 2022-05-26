@@ -13,10 +13,10 @@ Creatieve makers is an initiative from KULeuven and LUCA | School of Arts to cre
 ```
 
 <a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
-<a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
-You can then add color text to the SVG file as usual:
 
-<?xml version="1.0" encoding="utf-8"?>
+
+
+
 <svg version="1.1"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
